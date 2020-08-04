@@ -1,4 +1,4 @@
-Hey there.
+Hey there!
 
 ## About Me
 - 👋 I'm Kyle, and I'm an open source enthusiast. I love making cool stuff but even more so when I can share it with the world.
@@ -11,3 +11,9 @@ Hey there.
 - 🖼️ I keep an updated portfolio of my side projects, [check it out](https://seiyria.com/portfolio/)!
 - 📰 [Looking for a resume instead?](https://seiyria.com/resume.pdf)
 - 💬 Want to talk with me? Toss me an email at kyle at seiyria dot com.
+
+## Me On Github
+
+I ❤️ open source!
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seiyria&count_private=true&show_icons=true)
