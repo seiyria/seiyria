@@ -16,4 +16,4 @@ Hey there!
 
 I ❤️ open source!
 
-[![Seiyria's GitHub Stats]](https://github-readme-stats.vercel.app/api?username=seiyria&count_private=true&show_icons=true)
+![Seiyria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seiyria&count_private=true&show_icons=true)
