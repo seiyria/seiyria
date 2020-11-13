@@ -5,6 +5,7 @@ Hey there!
 - ✨ In my free time, I'm working on a cool game called [Rasterkhann](https://github.com/seiyria/rasterkhann).
 - 🔭 In the past, I've worked on some interesting, big game projects [IdleLands](https://github.com/idlelands/idlelands) and [Land of the Rair](https://github.com/landoftherair/landoftherair).
 - 🎲 I love playing board games and like to make software to make board games more fun!
+- 🎁 Want to support my creations? Check me out on [GitHub Sponsors](https://github.com/sponsors/seiyria) and [Patreon](https://www.patreon.com/seiyria)!
 
 ## Professional Activity 
 - 🌱 Professionally, I do Angular and/or Ionic contract work. I'm always looking to make more cool apps.
