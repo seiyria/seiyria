@@ -9,7 +9,7 @@ Hey there!
 ## Professional Activity 
 - 🌱 Professionally, I do Angular and/or Ionic contract work. I'm always looking to make more cool apps.
 - 🖼️ I keep an updated portfolio of my side projects, [check it out](https://seiyria.com/portfolio/)!
-- 📰 [Looking for a resume instead?](https://seiyria.com/resume.pdf)
+- 📰 [Looking for a resume instead?](https://seiyria.com/KyleKemp.pdf)
 - 💬 Want to talk with me? Toss me an email at kyle at seiyria dot com.
 
 ## Me On Github
