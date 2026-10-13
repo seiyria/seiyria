@@ -2,7 +2,7 @@ Hey there!
 
 ## About Me
 - 👋 I'm Kyle, and I'm an open source enthusiast. I love making cool stuff but even more so when I can share it with the world.
-- 🔭 In the past, I've worked on some interesting, big game projects [IdleLands](https://github.com/idlelands/idlelands) and [Land of the Rair](https://github.com/landoftherair/landoftherair).
+- 🔭 In the past, I've worked on some interesting, big game projects [IdleLands](https://github.com/idlelands/idlelands) and [Land of the Rair](https://github.com/landoftherair/landoftherair). I'm currently exploring alternate, interesting games over at [Fel Fhenor](https://github.com/felfhenor).
 - 🎲 I love playing board games and like to make software to make board games more fun!
 - 🎁 Want to support my creations? Check me out on [GitHub Sponsors](https://github.com/sponsors/seiyria) and [Patreon](https://www.patreon.com/seiyria)!
 
